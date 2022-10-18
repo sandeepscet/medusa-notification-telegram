@@ -2,12 +2,11 @@
 
 ![Image](assets/telegram_screenshot.png "Telegram Bot Screenshot")
 
-### Demo Link
+### Demo
 <video src='assets/medusa-telegram-demo.mp4' ></video>
 
 ## Description
-All order related events pushed to telegram group so that user can see the highlights. He can use link to get more details.
-
+All order related events pushed to telegram group so that user can see the highlights. User can navigte to  link to get more order details.
 
 
 ## Set up Project
