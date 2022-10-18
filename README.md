@@ -1,7 +1,7 @@
 # Order Notifications to Telegram
 
 ## Description
-All order related events pushed to telegram group so that user can see the highlights. He can use link to get more details.
+All order related events pushed to telegram group so that user can see the highlights. User can navigte to  link to get more order details.
 
 ![Image](telegram_screenshot.PNG "Telegram Bot Screenshot")
 
