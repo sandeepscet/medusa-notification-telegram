@@ -3,7 +3,7 @@
 ## Description
 All order related events pushed to telegram group so that user can see the highlights. He can use link to get more details.
 
-![Image](telegram_screenshot.png "Telegram Bot Screenshot")
+![Image](telegram_screenshot.PNG "Telegram Bot Screenshot")
 
 ## Getting started
 
