@@ -3,7 +3,7 @@
 ![Image](assets/telegram_screenshot.png "Telegram Bot Screenshot")
 
 ### Demo
-<video src='assets/medusa-telegram-demo.mp4' ></video>
+https://user-images.githubusercontent.com/1390862/196410106-90fe506e-dde9-4333-9db1-20fcd3a74240.mp4
 
 ## Description
 All order related events pushed to telegram group so that user can see the highlights. User can navigte to  link to get more order details.
