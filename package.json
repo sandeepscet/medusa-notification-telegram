@@ -6,8 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/medusajs/medusa",
-    "directory": "packages/medusa-plugin-slack-notification"
+    "url": "https://github.com/sandeepscet/medusa-notification-telegram"
   },
   "scripts": {
     "build": "babel src -d dist --extensions \".ts,.js\"",
